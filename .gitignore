@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#BN Added for Advent of Code
+data/
+*.txt
+
 # Distribution / packaging
 .Python
 build/
